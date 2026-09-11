@@ -9,3 +9,5 @@ test('D1 Logo - par label', () => {
     const logo = screen.getByLabelText("eventflow");
     expect(logo).toBeInTheDocument();
 });
+
+test
