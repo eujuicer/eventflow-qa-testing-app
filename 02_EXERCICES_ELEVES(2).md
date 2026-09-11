@@ -118,7 +118,7 @@ Refaites le test avec `size={18}`. Les deux dimensions doivent maintenant valoir
 
 ### C3 — Avatar : taille 50 ★
 
-Rendez un avatar sans image avec `size={50}`. Vérifiez que ses dimensions visibles sont de `50px` sur `50px`.
+Rendez un avatar sans image avec `size={50}`. Vérifiez que ses dimensions visibles sont de `50px` sur `50px`.    
 
 **Indice :** jest-dom permet aussi de vérifier les styles.
 
