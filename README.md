@@ -1,3 +1,7 @@
+> **À propos de ce repo** : ce dépôt contient l'application "eventflow", le projet fil rouge de ma formation Testeur QA (Bruxelles Formation / Cefora). Je l'utilise pour appliquer concrètement les techniques vues en formation : audit SQL de sa base de données, tests d'API (collection Bruno), tests manuels, et prochainement automatisation UI et CI/CD. Le README ci-dessous documente l'application elle-même (fournie dans le cadre du programme).
+
+---
+
 # eventflow
 
 > Plateforme de billetterie événementielle — support pédagogique (fil rouge) de la formation Testeur QA.
